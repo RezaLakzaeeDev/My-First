@@ -1,0 +1,14 @@
+body{
+    background-color: red;
+    font-size: 20px;
+}
+
+h1{
+ color: aquamarine;
+ display: flex;
+}
+
+p{
+    text-align: center;
+    margin: 0 50px;
+}
