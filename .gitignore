@@ -1,4 +1,4 @@
 description.txt
 *.txt
 MyDirectory/
-!work.txt
+work.txt
